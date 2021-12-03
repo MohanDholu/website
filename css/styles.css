@@ -24,8 +24,8 @@ Table Of Contents:
 /*****************************************
 Colors:
 - Backgrounds - light gray #f9f9f9
-- Buttons - red #ff5574
-- Buttons - blue #6168ff
+- Buttons - red #34910d
+- Buttons - blue #34910d
 - Headings text - black #222222
 - Body text - dark gray #5e6576
 ******************************************/
@@ -134,7 +134,7 @@ a:hover {
 }
 
 .blue {
-	color: #6168ff;
+	color: #34910d;
 }
 
 .bg-gray {
@@ -146,8 +146,8 @@ a:hover {
 	margin-bottom: 0.75rem;
 	padding: 0.125rem 1.75rem;
 	border-radius: 30px;
-	background-color: #ffe7eb;
-	color: #ff5574;
+	background-color: #34910d;
+	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
 }
@@ -155,9 +155,9 @@ a:hover {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-	border: 1px solid #ff5574;
+	border: 1px solid #34910d;
 	border-radius: 30px;
-	background-color: #ff5574;
+	background-color: #34910d;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -168,16 +168,16 @@ a:hover {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #ff5574; /* needs to stay here because of the color property of a tag */
+	color: #34910d; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-	border: 1px solid #ff5574;
+	border: 1px solid #34910d;
 	border-radius: 30px;
-	background-color: #ff5574;
+	background-color: #34910d;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -188,16 +188,16 @@ a:hover {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #ff5574; /* needs to stay here because of the color property of a tag */
+	color: #34910d; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
 .btn-solid-sm {
 	display: inline-block;
 	padding: 1rem 1.5rem 1rem 1.5rem;
-	border: 1px solid #ff5574;
+	border: 1px solid #34910d;
 	border-radius: 30px;
-	background-color: #ff5574;
+	background-color: #34910d;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -208,7 +208,7 @@ a:hover {
 
 .btn-solid-sm:hover {
 	background-color: transparent;
-	color: #ff5574; /* needs to stay here because of the color property of a tag */
+	color: #34910d; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
@@ -333,9 +333,9 @@ select {
 	display: inline-block;
 	width: 100%;
 	height: 3.25rem;
-	border: 1px solid #ff5574;
+	border: 1px solid #34910d;
 	border-radius: 30px;
-	background-color: #ff5574;
+	background-color: #34910d;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -345,9 +345,9 @@ select {
 }
 
 .form-control-submit-button:hover {
-	border: 1px solid #ff5574;
+	border: 1px solid #34910d;
 	background-color: transparent;
-	color: #ff5574;
+	color: #34910d;
 }
 
 
@@ -418,7 +418,7 @@ select {
 .navbar .nav-item.dropdown.show .nav-link,
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link.active {
-	color: #6168ff;
+	color: #34910d;
 }
 
 /* Dropdown Menu */
@@ -455,7 +455,7 @@ select {
 
 .navbar .dropdown-item:hover {
 	background-color: #ffffff;
-	color: #6168ff;
+	color: #34910d;
 }
 
 .navbar .dropdown-divider {
@@ -474,13 +474,13 @@ select {
 }
 
 .navbar .btn-solid-sm {
-	border-color: #6168ff;
-	background-color: #6168ff;
+	border-color: #34910d;
+	background-color: #34910d;
 }
 
 .navbar .btn-solid-sm:hover {
 	background-color: transparent;
-	color: #6168ff;
+	color: #34910d;
 }
 
 
@@ -719,11 +719,11 @@ select {
 
 .counter .counter-cell {
 	margin-bottom: 3rem;
-	color: #6168ff;
+	color: #34910d;
 }
 
 .counter .counter-cell.red {
-	color: #ff5574;
+	color: #34910d;
 }
 
 .counter .purecounter {
@@ -772,7 +772,7 @@ select {
 
 .filter .button:hover,
 .filter .button.is-checked {
-	color: #ff5574;
+	color: #34910d;
 }
 
 .filter .grid {
@@ -999,7 +999,7 @@ select {
 }
 
 .form-1 .list-unstyled .fas {
-	color: #6168ff;
+	color: #34910d;
 }
 
 
@@ -1140,7 +1140,7 @@ select {
 }
 
 .ex-cards-1 .card .fa-stack-2x {
-	color: #6168ff;
+	color: #34910d;
 }
 
 .ex-cards-1 .card .fa-stack-1x {
