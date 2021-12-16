@@ -1522,7 +1522,6 @@ select {
 	
 	.header .image-container img {
 		position: absolute;
-		top: -80px;
 		left: 10px;
 		width: 840px;
 		max-width: none;
